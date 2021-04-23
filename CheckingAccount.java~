@@ -1,0 +1,30 @@
+public  class CheckingAccount extends Account{
+ int numberOfAccount =0;
+  public CheckingAccount(){
+    numberOfAccount++; 
+   }
+   public CheckingAccount(double  b){
+   super(100.00); 
+    numberOfAccount++;  
+   }
+  
+   public CheckingAccount(double c){
+   super(200.00); 
+    numberOfAccount++;  
+   }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+}

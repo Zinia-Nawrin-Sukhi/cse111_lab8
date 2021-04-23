@@ -1,0 +1,5 @@
+class Jackfruits extends Fruit{
+  Jackfruits(){
+    super(true,"Jackfruits");
+  }
+}
